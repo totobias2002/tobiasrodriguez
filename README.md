@@ -1,6 +1,6 @@
 # ¡Hola! 👋😄
 
-### <🙂> Sobre mí </🙂>
+### <🐦‍⬛> Sobre mí </🐦‍⬛>
 
 Soy **Tobias Rodriguez**, estudiante de **Desarrollo de Software (UADE)** y **desarrollador full stack junior**.  
 Actualmente trabajo con tecnologías de backend y frontend, y también tengo experiencia en **análisis de datos, SAP y gestión de stock** gracias a mi rol en Cencosud (Voolkia S.A.).
